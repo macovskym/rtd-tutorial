@@ -1,3 +1,7 @@
+.. image:: https://readthedocs.org/projects/macovskym-rtd-tutorial/badge/?version=latest
+    :target: https://macovskym-rtd-tutorial.readthedocs.io/en/latest/?badge=latest
+    :alt: Documentation Status
+
 Template for the Read the Docs tutorial
 =======================================
 
